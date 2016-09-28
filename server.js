@@ -16,7 +16,7 @@ var articles = {
         This is the content for my first article.
     </p>`
 },
-    'article-Two':{ 
+    'article-two':{ 
     title: 'Article Two | Abhishek kumar',
     heading: 'Article Two',
     date: 'Sep 27, 2016',
@@ -25,7 +25,7 @@ var articles = {
     This is the content for my second article.
     </p>`
 },
-    'article-Three':{
+    'article-three':{
     title: 'Article Three | Abhishek kumar',
     heading: 'Article Three',
     date: 'Sep 27, 2016',
