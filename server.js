@@ -22,7 +22,7 @@ var articles = {
     This is the content for my first article.This is the content for my first article.This is the content for my first article.This is the content for my first article.This is the content for my first article.This is the content for my first article.This is the content for my first article.This is the content for my first article.
     </p>`
 },
-'article-Two:'{
+'article-Two':{
      title: 'Article Two | Abhishek kumar',
     heading: 'Article Two',
     date: 'Sep 27, 2016',
