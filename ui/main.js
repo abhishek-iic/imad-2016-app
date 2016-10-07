@@ -32,7 +32,7 @@ submit.onclick = function(){
     var name = ['name1', 'name2', 'name3','name4'];
     var list = '';
     for(var i=0;i<name.lenght;i++){
-        list += '<li>' + name[i] + '<li>';
+        list += '<li>' + name[i] + '</li>';
     }
     var ul = document.getElementById('name_list');
     ul.innerHTML = list;
